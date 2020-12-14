@@ -1,5 +1,8 @@
 _repo: A-Letter-on-the-Abolition-of-the-Slave-Trade-Addressed-to-the-freeholders-and-other-inhabitan__63974
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63974-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilberforce, William
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/William_Wilberforce
     - https://fr.wikipedia.org/wiki/William_Wilberforce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63974#A-Letter-on-the-Abolition-of-the-Slave-Trade-Addressed-to-the-freeholders-and-other-inhabitan_
 gutenberg_issued: '2020-12-06'
 gutenberg_type: Text
 identifiers:
