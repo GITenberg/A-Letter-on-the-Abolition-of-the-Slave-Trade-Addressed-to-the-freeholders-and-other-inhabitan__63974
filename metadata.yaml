@@ -1,0 +1,31 @@
+_repo: A-Letter-on-the-Abolition-of-the-Slave-Trade-Addressed-to-the-freeholders-and-other-inhabitan__63974
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilberforce, William
+    alias: Wilberforce, W. (William)
+    birthdate: 1759
+    deathdate: 1833
+    gutenberg_agent_id: '3635'
+    url: http://www.gutenberg.org/2009/agents/3635
+    wikipedia:
+    - https://en.wikipedia.org/wiki/William_Wilberforce
+    - https://fr.wikipedia.org/wiki/William_Wilberforce
+description: ''
+gutenberg_issued: '2020-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slave trade -- Great Britain'
+- !lcsh 'Antislavery movements -- Great Britain'
+- !lcc 'HT'
+- GITenberg
+title: 'A Letter on the Abolition of the Slave Trade
+
+  Addressed to the freeholders and other inhabitants of Yorkshire'
+url: http://www.gutenberg.org/ebooks/63974
